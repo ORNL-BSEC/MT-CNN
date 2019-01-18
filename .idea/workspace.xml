@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77f480ca-d8ab-418c-add4-98f0ad855fe5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/MT-CNN.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/test_X.npy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/test_Y.npy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/train_X.npy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/train_Y.npy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mt_cnn_exp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mt_cnn_exp.py" beforeDir="false" afterPath="$PROJECT_DIR$/mt_cnn_exp.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,10 +16,10 @@
       <file leaf-file-name="mt_cnn_exp.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mt_cnn_exp.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="464">
+              <caret line="38" column="111" lean-forward="true" selection-start-line="38" selection-start-column="53" selection-end-line="38" selection-end-column="111" />
               <folding>
-                <element signature="e#0#51#0" expanded="true" />
+                <element signature="e#1186#1237#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -152,10 +143,10 @@
     <frame x="378" y="23" width="1790" height="1373" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24985868" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24985868" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3299373" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3299373" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -184,10 +175,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mt_cnn_exp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="464">
+          <caret line="38" column="111" lean-forward="true" selection-start-line="38" selection-start-column="53" selection-end-line="38" selection-end-column="111" />
           <folding>
-            <element signature="e#0#51#0" expanded="true" />
+            <element signature="e#1186#1237#0" expanded="true" />
           </folding>
         </state>
       </provider>
