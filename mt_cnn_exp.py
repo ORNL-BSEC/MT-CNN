@@ -36,11 +36,6 @@ import ftplib
 
 
 def main():
-    filename, headers = urllib.request.urlretrieve( 'ftp://ftp.mcs.anl.gov/pub/candle/public/benchmarks/Pilot3/' )
-    quit()
-
-    urllib.urlretrieve( 'ftp://ftp.mcs.anl.gov/pub/candle/public/benchmarks/Pilot3/' )
-
     train_x = np.load( './data/train_X.npy' )
     train_y = np.load('./data/train_Y.npy')
 
